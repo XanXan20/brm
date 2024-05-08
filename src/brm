@@ -1,6 +1,5 @@
 #!/bin/sh
 path=/sbin/brm/.paths
-#path=$HOME/Projects/brm/.paths
 
 help_txt="This is help function text"
 
